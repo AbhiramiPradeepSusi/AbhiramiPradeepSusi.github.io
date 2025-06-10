@@ -8336,7 +8336,7 @@ h1, h2, h3, h4, h5,
 .hero {
   position: relative;
   z-index: 0; }
-  /* .hero h1.vr {
+  .hero h1.vr {
     font-family: "Barlow Condensed", Arial, sans-serif;
     position: absolute;
     top: 50%;
@@ -8351,10 +8351,10 @@ h1, h2, h3, h4, h5,
     color: #fff;
     color: transparent;
     line-height: .1vh;
-    -webkit-text-fill-color: transparent; */
+    -webkit-text-fill-color: transparent;
     /* Will override color (regardless of order) */
-    /* -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: #fff; } */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #fff; } 
 
 .home-wrap .half {
   width: 50%;
